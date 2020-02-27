@@ -4,3 +4,5 @@ generated/
 
 yarn.lock
 package-lock.json
+
+prismagram/prisma.yml
